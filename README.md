@@ -6,3 +6,4 @@ Example Code for Blog Posts:
 - https://www.arthurkoziel.com/creating-ci-pipelines-with-tekton-part-2/
 
 test pull request
+test pull request cmd
